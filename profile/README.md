@@ -83,7 +83,7 @@ We're always looking for collaborations with:
 
 ### 🏢 **Business & Partnerships**
 - 🌐 **Website**: [longevitycoa.ch](https://longevitycoa.ch/)
-- 👨‍💼 **Founder**: Matthias Buchhorn
+- 👨‍💼 **Founder**: Matthias Buchhorn-Roth
 - 📧 **Business Email**: info@mabu.red
 - 📋 **Business Plan**: [View Our Vision](https://longevitycoa.ch/business-plan)
 
@@ -94,8 +94,6 @@ We're always looking for collaborations with:
 - 📊 **Data Scientists**: Help advance personalized medicine with AI
 
 ### 🌍 **Community & Social**
-- 💬 **Discord**: Join our community (coming soon)
-- 🐦 **Twitter**: @longevitycoach (coming soon)
 - 📱 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mbuchhorn/)
 - 🌐 **Bluesky**: [Bluesky Profile](https://bsky.app/profile/m43u.bsky.social)
 - 📰 **Newsletter**: Stay updated on longevity breakthroughs
