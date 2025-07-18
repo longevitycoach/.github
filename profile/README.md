@@ -82,10 +82,24 @@ We're always looking for collaborations with:
 
 ## 📫 Get In Touch
 
-- 🌐 Website: [longevitycoa.ch](https://longevitycoa.ch/)
-- 📧 Email: contact@longevitycoa.ch
-- 💬 Discord: Join our community (coming soon)
-- 🐦 Twitter: @longevitycoach (coming soon)
+### 🏢 **Business & Partnerships**
+- 🌐 **Website**: [longevitycoa.ch](https://longevitycoa.ch/)
+- 📧 **General Inquiries**: contact@longevitycoa.ch
+- 👨‍💼 **Founder**: Matthias Buchhorn-Roth
+- 💼 **Business Email**: matthias.buchhorn@web.de
+- 📋 **Business Plan**: [View Our Vision](https://longevitycoa.ch/business-plan)
+
+### 🤝 **Collaboration Opportunities**
+- 🔬 **Research Partnerships**: Partner with us on longevity research
+- 🏥 **Healthcare Providers**: Integrate AI health coaching into your practice
+- 💻 **Developers**: Contribute to our open-source health tech projects
+- 📊 **Data Scientists**: Help advance personalized medicine with AI
+
+### 🌍 **Community & Social**
+- 💬 **Discord**: Join our community (coming soon)
+- 🐦 **Twitter**: @longevitycoach (coming soon)
+- 📱 **LinkedIn**: Connect with our team
+- 📰 **Newsletter**: Stay updated on longevity breakthroughs
 
 ## 🌍 Open Source Commitment
 
