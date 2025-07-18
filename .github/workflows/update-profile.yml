@@ -1,0 +1,29 @@
+name: Update Organization Profile
+
+on:
+  schedule:
+    # Run monthly to keep profile updated
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    name: Update Organization Statistics
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Update README stats
+        run: |
+          echo "Organization profile stats updated on $(date)" >> profile/last_updated.txt
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Auto-update organization profile stats"
+          git push
