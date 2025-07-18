@@ -1,11 +1,9 @@
+# 🧬 Longevity Coach - AI-Powered Health Optimization
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/longevitycoach/.github/main/profile/logo.png" alt="Longevity Coach Logo" width="200" height="200" />
-  <h1>🧬 Longevity Coach - AI-Powered Health Optimization</h1>
-  <p>
-    <img src="https://img.shields.io/badge/AI%20Powered-Longevity%20Coaching-blue?style=for-the-badge" alt="AI Longevity Coach" />
-    <img src="https://img.shields.io/badge/Personalized-Blood%20Analysis-green?style=for-the-badge" alt="Blood Analysis" />
-    <img src="https://img.shields.io/badge/Evidence%20Based-Health%20Protocols-red?style=for-the-badge" alt="Health Protocols" />
-  </p>
+  <img src="https://img.shields.io/badge/AI%20Powered-Longevity%20Coaching-blue?style=for-the-badge" alt="AI Longevity Coach" />
+  <img src="https://img.shields.io/badge/Personalized-Blood%20Analysis-green?style=for-the-badge" alt="Blood Analysis" />
+  <img src="https://img.shields.io/badge/Evidence%20Based-Health%20Protocols-red?style=for-the-badge" alt="Health Protocols" />
 </div>
 
 ## 🎯 Mission
@@ -85,7 +83,6 @@ We're always looking for collaborations with:
 
 ### 🏢 **Business & Partnerships**
 - 🌐 **Website**: [longevitycoa.ch](https://longevitycoa.ch/)
-- 📧 **General Inquiries**: contact@longevitycoa.ch
 - 👨‍💼 **Founder**: Matthias Buchhorn
 - 📧 **Business Email**: info@mabu.red
 - 📋 **Business Plan**: [View Our Vision](https://longevitycoa.ch/business-plan)
